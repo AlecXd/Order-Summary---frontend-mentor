@@ -259,15 +259,19 @@ ul {
 
   /* === Active States === */
 
-  .proceed-to-payment:focus {
+  .proceed-to-payment:focus,
+  .proceed-to-payment:hover {
+    transition: 0.2s;
     background: #766cf1;
   }
 
-  .cancel-order:focus {
+  .cancel-order:focus,
+  .cancel-order:hover {
     color: #0d0a47;
   }
 
-  .change:focus {
+  .change:focus,
+  .change:hover {
     text-decoration: none;
     color: #766cf1;
   }
