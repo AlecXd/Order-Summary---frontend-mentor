@@ -1,1 +1,1 @@
-### Challenges by [Frontend Mentor](www.frontendmentor.io)
+### Challenges by [www.frontendmentor.io]
